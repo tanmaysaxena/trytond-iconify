@@ -1,5 +1,270 @@
 <?xml version="1.0"?>
 <tryton>
     <data>
+        <record model='ir.ui.icon' id='tryton-attachment'>
+            <field name='name'>tryton-attachment</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-attachment.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-attachment-hi'>
+            <field name='name'>tryton-attachment-hi</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-attachment-hi.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-bookmark2'>
+	    <field name='name'>tryton-bookmark2</field>
+	    <field name='module'>iconify</field>
+	    <field name='path'>icons/tryton-bookmark.svg</field>
+	</record>
+	<record model='ir.ui.icon' id='tryton-bookmark'>
+	    <field name='name'>tryton-bookmark</field>
+	    <field name='module'>iconify</field>
+	    <field name='path'>icons/tryton-bookmark.svg</field>
+	</record>
+	<record model='ir.ui.icon' id='tryton-clear'>
+            <field name='name'>tryton-clear</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-clear.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-close'>
+            <field name='name'>tryton-close</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-close.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-connect'>
+            <field name='name'>tryton-connect</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-connect.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-copy'>
+            <field name='name'>tryton-copy</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-copy.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-delete'>
+            <field name='name'>tryton-delete</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-delete.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-dialog-error'>
+            <field name='name'>tryton-dialog-error</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-dialog-error.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-dialog-information'>
+            <field name='name'>tryton-dialog-information</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-dialog-information.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-dialog-warning'>
+            <field name='name'>tryton-dialog-warning</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-dialog-warning.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-disconnect'>
+            <field name='name'>tryton-disconnect</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-disconnect.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-executable'>
+            <field name='name'>tryton-executable</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-executable.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-find'>
+            <field name='name'>tryton-find</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-find.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-find-replace'>
+            <field name='name'>tryton-find-replace</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-find-replace.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-folder-new'>
+            <field name='name'>tryton-folder-new</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-folder-new.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-fullscreen'>
+            <field name='name'>tryton-fullscreen</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-fullscreen.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-go-home'>
+            <field name='name'>tryton-go-home</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-go-home.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-go-jump'>
+            <field name='name'>tryton-go-jump</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-go-jump.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-go-next'>
+            <field name='name'>tryton-go-next</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-go-next.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-go-previous'>
+            <field name='name'>tryton-go-previous</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-go-previous.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-help'>
+            <field name='name'>tryton-help</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-help.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-icon'>
+            <field name='name'>tryton-icon</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-icon.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-list-add'>
+            <field name='name'>tryton-list-add</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-list-add.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-list-remove'>
+            <field name='name'>tryton-list-remove</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-list-remove.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-locale'>
+            <field name='name'>tryton-locale</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-locale.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-lock'>
+            <field name='name'>tryton-lock</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-lock.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-log-out'>
+            <field name='name'>tryton-log-out</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-log-out.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-mail-message'>
+            <field name='name'>tryton-mail-message</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-mail-message.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-mail-message-new'>
+            <field name='name'>tryton-mail-message-new</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-mail-message-new.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-new'>
+            <field name='name'>tryton-new</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-new.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-noimage'>
+            <field name='name'>tryton-noimage</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-noimage.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-open'>
+            <field name='name'>tryton-open</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-open.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-preferences'>
+            <field name='name'>tryton-preferences</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-preferences.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-preferences-system'>
+            <field name='name'>tryton-preferences-system</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-preferences-system.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-preferences-system-session'>
+            <field name='name'>tryton-preferences-system-session</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-preferences-system-session.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-print'>
+            <field name='name'>tryton-print</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-print.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-print-email'>
+            <field name='name'>tryton-print-email</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-print-email.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-print-open'>
+            <field name='name'>tryton-print-open</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-print-open.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-refresh'>
+            <field name='name'>tryton-refresh</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-refresh.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-save'>
+            <field name='name'>tryton-save</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-save.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-save-as'>
+            <field name='name'>tryton-save-as</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-save-as.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-star'>
+            <field name='name'>tryton-star</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-star.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-start-here'>
+            <field name='name'>tryton-start-here</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-start-here.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-system'>
+            <field name='name'>tryton-system</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-system.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-system-file-manager'>
+            <field name='name'>tryton-system-file-manager</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-system-file-manager.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-text-background'>
+            <field name='name'>tryton-text-background</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-text-background.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-text-foreground'>
+            <field name='name'>tryton-text-foreground</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-text-foreground.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-text-markup'>
+            <field name='name'>tryton-text-markup</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-text-markup.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-undo'>
+            <field name='name'>tryton-undo</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-undo.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-unstar'>
+            <field name='name'>tryton-unstar</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-unstar.svg</field>
+        </record>
+	<record model='ir.ui.icon' id='tryton-web-browser'>
+            <field name='name'>tryton-web-browser</field>
+            <field name='module'>iconify</field>
+            <field name='path'>icons/tryton-web-browser.svg</field>
+        </record>
     </data>
 </tryton>

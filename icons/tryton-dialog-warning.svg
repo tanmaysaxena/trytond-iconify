@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg1377" inkscape:output_extension="org.inkscape.output.svg.inkscape" sodipodi:docname="dialog-warning.svg" sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/status" inkscape:version="0.46" sodipodi:version="0.32" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<path fill="#E41F20" d="M45.318,38.664L26.776,6.552c-0.482-0.843-1.387-1.366-2.359-1.366c-0.97,0-1.874,0.522-2.36,1.363
+		L3.432,38.812c-0.485,0.839-0.485,1.882,0,2.721c0.486,0.842,1.39,1.366,2.359,1.366h37.263c1.501,0,2.722-1.223,2.722-2.726
+		C45.775,39.612,45.609,39.073,45.318,38.664z M43.054,41.318H5.792c-0.408,0-0.79-0.218-0.994-0.572
+		c-0.205-0.354-0.206-0.795,0-1.149l18.625-32.26c0.204-0.353,0.584-0.573,0.994-0.573c0.407,0,0.792,0.22,0.995,0.573
+		l18.579,32.177c0.136,0.194,0.21,0.421,0.21,0.66C44.201,40.806,43.685,41.318,43.054,41.318z"/>
+	<polygon fill="#231F20" points="25.274,31.92 25.703,17.258 22.502,17.258 22.93,31.92 	"/>
+	<path fill="#231F20" d="M24.103,34.021c-1.115,0-1.924,0.845-1.924,2.01c0,1.167,0.809,2.014,1.924,2.014
+		c1.133,0,1.925-0.827,1.925-2.014C26.027,34.847,25.235,34.021,24.103,34.021z"/>
+</g>
+</svg>

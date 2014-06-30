@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg11300" inkscape:output_extension="org.inkscape.output.svg.inkscape" sodipodi:docname="go-previous.svg" sodipodi:docbase="/home/andreas/projekt/tango/scalable" inkscape:version="0.46" sodipodi:version="0.32" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:export-ydpi="90.000000" inkscape:export-xdpi="90.000000" inkscape:export-filename="/home/jimmac/Desktop/wi-fi.png"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<defs  display="none">
+	
+	
+		<inkscape:perspective  inkscape:persp3d-origin="24 : 16 : 1" inkscape:vp_z="48 : 24 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 24 : 1" sodipodi:type="inkscape:persp3d" id="perspective128">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview  fill="#4e9a06" stroke="#4e9a06" inkscape:showpageshadow="false" inkscape:window-y="30" inkscape:window-x="0" inkscape:window-height="818" inkscape:window-width="1280" inkscape:document-units="px" inkscape:grid-bbox="true" inkscape:current-layer="layer1" inkscape:pageopacity="0.0" inkscape:pageshadow="2" showgrid="false" inkscape:cy="25.461494" inkscape:cx="15.433072" inkscape:zoom="16" borderopacity="0.25490196" bordercolor="#666666" pagecolor="#ffffff" id="base">
+	</sodipodi:namedview>
+<g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1" display="none">
+	
+		<radialGradient id="path8660_1_" cx="-422.1104" cy="-306.4253" r="15.6472" gradientTransform="matrix(-1.2712 0 0 -0.6823 -511.9581 -178.0457)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</radialGradient>
+	
+		<path id="path8660" sodipodi:cx="24.837126" sodipodi:cy="36.421127" sodipodi:ry="8.3968935" sodipodi:rx="15.644737" sodipodi:type="arc" opacity="0.2995" fill="url(#path8660_1_)" enable-background="new    " d="
+		M4.735,31.02c-0.003,5.895,8.897,10.676,19.881,10.678s19.89-4.775,19.894-10.671c0-0.003,0-0.005,0-0.007
+		c0.004-5.895-8.897-10.676-19.881-10.677c-10.984-0.002-19.89,4.775-19.894,10.67C4.735,31.016,4.735,31.018,4.735,31.02z"/>
+	
+		<radialGradient id="path8643_1_" cx="-537.126" cy="-122.4526" r="16.9559" gradientTransform="matrix(-0.843 0 0 -1.0202 -428.0248 -90.2588)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#73D216"/>
+		<stop  offset="1" style="stop-color:#4E9A06"/>
+	</radialGradient>
+	
+		<path id="path8643" sodipodi:nodetypes="cccccccc" fill="url(#path8643_1_)" stroke="#3A7304" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M39.49,15.497v16.994H26.537v8.482l-19.959-17L26.531,6.729v8.772L39.49,15.497z"/>
+	
+		<radialGradient id="path8645_1_" cx="-337.9609" cy="30.208" r="17.17" gradientTransform="matrix(-2.0467 0 0 -1.5576 -675.4446 59.3394)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<path id="path8645" sodipodi:nodetypes="cccccc" opacity="0.508" fill="url(#path8645_1_)" enable-background="new    " d="
+		M25.988,7.978v8.056h12.942v8.885c-16.75-6.25-16.134,5.295-31.384-0.955L25.988,7.978z"/>
+	
+		<path id="path8658" sodipodi:nodetypes="cccccccc" opacity="0.4813" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-miterlimit="10" enable-background="new    " d="
+		M38.476,16.542v14.921H25.49v7.302L8.168,23.969L25.506,9.063v7.483L38.476,16.542z"/>
+</g>
+<polygon fill="#3498DB" points="31.52,5.676 32.816,6.843 17.376,24.001 32.816,41.158 31.52,42.324 15.027,24.001 "/>
+</svg>

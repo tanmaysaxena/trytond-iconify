@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg6431" inkscape:output_extension="org.inkscape.output.svg.inkscape" sodipodi:docname="list-add.svg" sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/actions" inkscape:version="0.46" sodipodi:version="0.32" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<defs  display="none">
+	
+	
+		<inkscape:perspective  inkscape:persp3d-origin="24 : 16 : 1" inkscape:vp_z="48 : 24 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 24 : 1" sodipodi:type="inkscape:persp3d" id="perspective70">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview  inkscape:showpageshadow="false" inkscape:window-y="30" inkscape:window-x="0" inkscape:window-height="818" inkscape:window-width="1280" inkscape:document-units="px" inkscape:grid-bbox="true" inkscape:current-layer="layer1" inkscape:pageopacity="0.0" inkscape:pageshadow="2" showgrid="false" inkscape:cy="0.031886897" inkscape:cx="-123.56934" inkscape:zoom="1" borderopacity="0.15686275" bordercolor="#666666" pagecolor="#ffffff" id="base" showguides="true" inkscape:guide-bbox="true">
+	</sodipodi:namedview>
+<g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1" display="none">
+	
+		<radialGradient id="path1361_1_" cx="3.8188" cy="-627.5371" r="10.3196" gradientTransform="matrix(1.4184 0.025 0.0127 -0.4226 25.8665 -228.5494)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</radialGradient>
+	
+		<path id="path1361" sodipodi:cx="22.958872" sodipodi:cy="34.94062" sodipodi:ry="2.320194" sodipodi:rx="10.31934" sodipodi:type="arc" display="inline" opacity="0.1082" fill="url(#path1361_1_)" enable-background="new    " d="
+		M39.116,36.646c0,2.535-7.163,4.591-16,4.591c-8.836,0-16-2.056-16-4.591s7.164-4.591,16-4.591
+		C31.953,32.056,39.116,34.111,39.116,36.646L39.116,36.646z"/>
+	<path id="text1314" sodipodi:nodetypes="ccccccccccccc" display="inline" fill="#75A1D0" stroke="#3465A4" stroke-width="1" d="
+		M27.514,37.543v-9.027l9.979-0.04V21.48h-9.969l-0.01-9.96l-7.016,0.011l0.004,9.931l-9.99,0.074l-0.036,6.968l10.035-0.028
+		l0.006,9.04L27.514,37.543z"/>
+	
+		<linearGradient id="path7076_1_" gradientUnits="userSpaceOnUse" x1="93.7275" y1="-130.8438" x2="104.7539" y2="-142.9693" gradientTransform="matrix(1 0 0 -1 -74.0181 -110.5713)">
+		<stop  offset="0" style="stop-color:#729FCF"/>
+		<stop  offset="1" style="stop-color:#5187D6"/>
+	</linearGradient>
+	
+		<linearGradient id="path7076_2_" gradientUnits="userSpaceOnUse" x1="75.709" y1="-117.2734" x2="86.7354" y2="-129.399" gradientTransform="matrix(1 0 0 -1 -56 -97)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.3402"/>
+	</linearGradient>
+	
+		<path id="path7076" sodipodi:nodetypes="ccccccccccccc" display="inline" opacity="0.4086" fill="url(#path7076_1_)" stroke="url(#path7076_2_)" stroke-width="1" enable-background="new    " d="
+		M26.498,36.534V27.5h10.004l-0.008-5.025h-9.986V12.48l-4.995,0.018l0.009,9.977l-10.026,0.018l-0.027,4.974l10.064,0.008
+		l-0.014,9.028L26.498,36.534z"/>
+	
+		<path id="path7914" sodipodi:nodetypes="ccccccccc" display="inline" opacity="0.3118" fill="#FFFFFF" enable-background="new    " d="
+		M11,25c0,1.938,25.984-0.969,25.984-0.031v-3L27,22v-9.965h-6V22H11V25z"/>
+</g>
+<g>
+	<path fill="#3498DB" d="M38.174,22.72H25V9.546c0-0.552-0.447-1-1-1c-0.553,0-1,0.448-1,1V22.72H9.826c-0.552,0-1,0.448-1,1
+		s0.448,1,1,1H23v13.173c0,0.553,0.447,1,1,1c0.553,0,1-0.447,1-1V24.72h13.174c0.553,0,1-0.448,1-1S38.727,22.72,38.174,22.72z"/>
+</g>
+</svg>

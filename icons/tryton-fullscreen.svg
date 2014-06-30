@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg11300" inkscape:output_extension="org.inkscape.output.svg.inkscape" sodipodi:docname="view-fullscreen.svg" sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/actions" inkscape:version="0.46" sodipodi:version="0.32" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:export-ydpi="90.000000" inkscape:export-xdpi="90.000000" inkscape:export-filename="/home/jimmac/Desktop/wi-fi.png"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#3498DB" d="M30.799,15.89H6.78c-0.703,0-1.271,0.57-1.271,1.272v24.019c0,0.702,0.569,1.271,1.271,1.271h24.019
+			c0.703,0,1.271-0.569,1.271-1.271V17.162C32.07,16.459,31.502,15.89,30.799,15.89z M29.528,18.433v3.258H8.052v-3.258H29.528z
+			 M8.052,39.91V24.236h21.477V39.91H8.052z"/>
+		<rect x="8.811" y="19.297" fill="#3498DB" width="1.908" height="1.907"/>
+		<rect x="11.672" y="19.297" fill="#3498DB" width="1.907" height="1.907"/>
+		<rect x="14.533" y="19.297" fill="#3498DB" width="1.908" height="1.907"/>
+	</g>
+	<g>
+		<path fill="#3498DB" d="M42.137,5.063H18.119c-0.703,0-1.272,0.57-1.272,1.272v8.602h2.544v-1.528h21.477v15.674h-7.418v2.543
+			h8.688c0.704,0,1.273-0.57,1.273-1.271V6.334C43.41,5.632,42.841,5.063,42.137,5.063z M40.866,10.864H19.39V7.606h21.476V10.864z"
+			/>
+		<rect x="20.15" y="8.47" fill="#3498DB" width="1.907" height="1.908"/>
+		<rect x="23.01" y="8.47" fill="#3498DB" width="1.907" height="1.908"/>
+		<rect x="25.872" y="8.47" fill="#3498DB" width="1.907" height="1.908"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg11300" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:export-filename="/home/jimmac/Desktop/wi-fi.png" inkscape:export-xdpi="90.000000" inkscape:export-ydpi="90.000000" sodipodi:version="0.32" inkscape:version="0.46" sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/apps" sodipodi:docname="preferences-desktop-locale.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<path fill="#9AEFFF" d="M4,5.987v26h32v-26H4z M34,29.986H6v-20h28V29.986z"/>
+	<rect x="22" y="13.987" fill="#9AEFFF" width="10" height="2"/>
+	<rect x="22" y="17.987" fill="#9AEFFF" width="10" height="2"/>
+	<rect x="22" y="21.987" fill="#9AEFFF" width="6" height="2"/>
+	<rect x="8" y="13.987" fill="#9AEFFF" width="10" height="10"/>
+</g>
+<path fill="#3498DB" d="M37.082,22.845c2.868,0,5.442-1.562,7.203-2.743V42.45c-1.761,1.181-4.335,2.742-7.203,2.742
+	s-5.443-0.85-7.203-2.031c-1.76-1.181-4.335-2.031-7.203-2.031c-2.869,0-5.443,1.46-7.204,2.641V21.423
+	c1.761-1.182,4.334-2.642,7.204-2.642c2.868,0,5.443,0.851,7.203,2.032C31.639,21.994,34.214,22.845,37.082,22.845z"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg97" inkscape:output_extension="org.inkscape.output.svg.inkscape" sodipodi:docname="document-open.svg" sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/actions" inkscape:version="0.46" sodipodi:version="0.32" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:export-ydpi="90.000000" inkscape:export-xdpi="90.000000" inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/snowdunes/gnome-fs-directory-accept.png"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<path fill="#3498DB" d="M36.592,27.944c-0.24-0.434-0.783-0.783-1.207-0.783H3.102c-0.425,0-0.577,0.345-0.333,0.783l7.582,13.576
+		c0.241,0.431,0.784,0.782,1.207,0.782H43.84c0.424,0,0.58-0.347,0.336-0.782L36.592,27.944z M11.958,40.41l-6.31-11.356h28.865
+		l7.096,11.356H11.958z"/>
+	<rect x="14.007" y="17.698" fill="#3498DB" width="26.499" height="1.893"/>
+	<rect x="14.007" y="21.483" fill="#3498DB" width="26.499" height="1.893"/>
+	<rect x="14.007" y="13.912" fill="#3498DB" width="26.499" height="1.893"/>
+	<path fill="#3498DB" d="M43.361,10.162H23.462l-0.014-2.875c0-0.522-0.426-0.946-0.939-0.946H11.165
+		c-0.521,0-0.943,0.431-0.943,0.943v18.931h1.894V8.234h9.455v3.82h20.842l-0.014,22.677l1.891,3.786l0.016-27.399
+		C44.305,10.589,43.873,10.162,43.361,10.162z"/>
+</g>
+</svg>

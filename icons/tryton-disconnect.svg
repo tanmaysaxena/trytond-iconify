@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2327" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:version="0.32" inkscape:version="0.46" sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/status" sodipodi:docname="network-transmit-receive.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<path fill="#97ECFF" d="M44.988,2.586H17.985c-1.268,0-2.301,1.032-2.301,2.301v17.401c0,1.27,1.033,2.301,2.301,2.301h12.902v4.651
+	h-4.125c-0.332,0-0.602,0.269-0.602,0.6c0,0.332,0.27,0.601,0.602,0.601h9.375c0.332,0,0.602-0.269,0.602-0.601
+	c0-0.331-0.27-0.6-0.602-0.6h-4.051v-4.651h12.902c1.268,0,2.301-1.031,2.301-2.301V4.887C47.289,3.617,46.258,2.586,44.988,2.586z"
+	/>
+<path fill="#3498DB" d="M30.016,17.56H3.011c-1.268,0-2.301,1.032-2.301,2.301v17.401c0,1.27,1.033,2.301,2.301,2.301h12.902v4.651
+	h-4.126c-0.332,0-0.6,0.269-0.6,0.6c0,0.332,0.269,0.601,0.6,0.601h9.376c0.331,0,0.601-0.269,0.601-0.601
+	c0-0.331-0.27-0.6-0.601-0.6h-4.051v-4.651h12.902c1.268,0,2.301-1.031,2.301-2.301V19.86C32.316,18.591,31.285,17.56,30.016,17.56z
+	"/>
+<g>
+	<path fill="#FF0000" d="M44.263,45.346l-7.719-7.717l-7.787,7.785l-1.736-1.738l7.785-7.786l-7.785-7.787l1.736-1.738l7.787,7.787
+		l7.752-7.749l1.736,1.734l-7.749,7.753l7.715,7.718L44.263,45.346z"/>
+</g>
+</svg>
